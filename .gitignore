@@ -1,0 +1,20 @@
+# Python environment
+whisper_env/
+venv/
+env/
+New folder/whisper_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated embeddings
+embeddings.joblib
+
+# Local outputs
+prompt.txt
+response.txt
+
+# Video and audio files
+*.mp4
+audios/
